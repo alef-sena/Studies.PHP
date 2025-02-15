@@ -1,0 +1,22 @@
+{
+    "name": "alef-sena/promobit-back-end-challenge",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alef-sena",
+            "email": "alefs07@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.11"
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
