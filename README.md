@@ -54,7 +54,7 @@ Isso irá:
 
 ### 4. Acesse a API
 
-A API estará disponível em `http://localhost:8000`.
+A API estará disponível em `http://localhost:8081`.
 
 Você pode testar os endpoints usando ferramentas como [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/download) ou [cURL](https://curl.se/).
 
